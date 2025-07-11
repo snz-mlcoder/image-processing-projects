@@ -11,3 +11,5 @@ Each project is self-contained in a separate folder and is designed to be run an
 | No. | Project Title | Description | Colab |
 |-----|---------------|-------------|--------|
 | 01  | Car Classification – BoW + SIFT + SVM | Feature-based classification of cars using SIFT, Bag-of-Words, and SVM. | [🔗 Open in Colab](https://colab.research.google.com/github/snz-mlcoder/image-processing-projects/blob/main/car-classification-bow-sift/car_classifier.ipynb) |
+| 02  | Fun Filter | Apply fun filters to your images with interactive controls. | 🔗 View Project Folder |
+
