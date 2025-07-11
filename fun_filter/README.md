@@ -1,19 +1,28 @@
-Interactive Image Filters
+# Interactive Image Filters
+
 This project provides various image filters that can be applied to uploaded images through an interactive interface. The filters include classic and artistic effects that can transform images in real-time.
 
-Features
-Pencil Sketch: Converts the image into a pencil sketch.
+## Features
 
-Cooling Filter: Applies a cooling tone by reducing the red channel and increasing the blue.
+## Pencil Sketch: 
+Converts the image into a pencil sketch.
 
-Cartoonizer: Creates a cartoon-like effect by combining downsampling, bilateral filtering, and edge detection.
+## Cooling Filter: 
+Applies a cooling tone by reducing the red channel and increasing the blue.
 
-Sepia: Adds a warm sepia tone to the image for a vintage look.
+## Cartoonizer: 
+Creates a cartoon-like effect by combining downsampling, bilateral filtering, and edge detection.
 
-Negative: Inverts the colors of the image to create a negative effect.
+## Sepia: 
+Adds a warm sepia tone to the image for a vintage look.
 
-Gaussian Blur: Softens the image by applying Gaussian blur.
+## Negative: 
+Inverts the colors of the image to create a negative effect.
 
-Emboss: Enhances edges to give the image a raised effect.
+## Gaussian Blur: 
+Softens the image by applying Gaussian blur.
+
+## Emboss: 
+Enhances edges to give the image a raised effect.
 
 
