@@ -1,6 +1,7 @@
 # Interactive Image Filters
 
 This project provides various image filters that can be applied to uploaded images through an interactive interface. The filters include classic and artistic effects that can transform images in real-time.
+<img src="sample_output.png" width="500">
 
 ## Features
 
